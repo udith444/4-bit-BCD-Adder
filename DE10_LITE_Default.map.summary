@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Jul 05 19:07:53 2025
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : DE10_LITE_Default
+Top-level Entity Name : C4M1P5
+Family : MAX 10
+Total logic elements : 33
+    Total combinational functions : 33
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 47
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
