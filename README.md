@@ -58,3 +58,12 @@ View outputs:
 
 ## Performance Metrics
 - **Logic Cells Used**: 34
+
+## Acknowledgments
+This project was developed as part of the **FPGA Design for Embedded Systems** specialization capstone project offered by the **University of Colorado Boulder** on Coursera. Special thanks to:
+
+- Course instructors for their guidance on FPGA design methodologies
+- Terasic for providing the DE10-Lite development board documentation
+- Intel FPGA University Program for their educational resources
+
+The original project requirements and constraints were provided as part of the course curriculum, with implementation details and optimizations developed independently.
